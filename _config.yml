@@ -12,11 +12,10 @@ description: "Only the best classic house, deep house and tech house music for y
 subtitle: "Best classic house, deep house and tech house music."
 lang: en-us
 author: Frame Control
-copyright: "&#xA9; 2021ß"
+copyright: "&#xA9; 2021"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://westbeats.com" # the base hostname & protocol for your site
-#twitter_username: timklapdor
-#github_username:  timklapdor
+twitter_username: djframecontrol
 
 permalink: /:year/:title.html
 
@@ -30,4 +29,4 @@ include: ['_pages']
 markdown: kramdown
 
 #Exclude local build settings
-exclude: ['readme.md', 'Gemfile.lock', 'Gemfile']
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
