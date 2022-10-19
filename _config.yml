@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            West Beats
+tagline:          'Russian-born record collector and DJ based in Sydney, Australia'
+description:      'Russian-born record collector and DJ based in Sydney, Australia'
+url:              https://westbeats.com
+baseurl:          /
+
+author:
+  name:           'West Beats'
+  url:            https://linktr.ee/westbeatsmusic
+
+paginate:         5
