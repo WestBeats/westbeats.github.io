@@ -4,5 +4,6 @@ title: Home
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  <img src="/westbeats.jpg"/>
+  Bookings: <a href="mailto:westbeatsmusic@gmail.com">westbeatsmusic@gmail.com</a>
 </p>
